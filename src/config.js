@@ -1,0 +1,5 @@
+// Foursquare Client ID
+export const fsId = 'BTKWOVYYFPARZD003UY4SNNVL3AXAIGGCWGLCNXCY0NYFVA3'
+
+// Foursquare Client Secret
+export const fsScrt = 'QSHIFINCZ1R35XBJGWHW05RAMWVZZGPVUE4LJVNTRFO5OXFL'
